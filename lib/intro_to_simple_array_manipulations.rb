@@ -1,4 +1,3 @@
-d
 def using_push(array, val)
   array.push(val)
 end
